@@ -2,7 +2,7 @@
 alert('Boas vindas ao jogo do número secreto');
 
 // Define o valor máximo para o número secreto
-let numeroMaximo = 500;
+let numeroMaximo = 1000;
 
 // Gera um número secreto aleatório entre 1 e numeroMaximo
 let numeroSecreto = parseInt(Math.random() * numeroMaximo + 1);
