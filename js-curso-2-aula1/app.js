@@ -8,7 +8,7 @@ let listaNumerosSorteados = [];
  * Limite máximo para o número secreto.
  * @type {number}
  */
-let numeroLimites = 100;
+let numeroLimites = 500;
 
 /**
  * Número secreto gerado aleatoriamente.
